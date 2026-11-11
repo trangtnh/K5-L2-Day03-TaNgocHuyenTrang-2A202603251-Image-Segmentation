@@ -5,3 +5,16 @@ __pycache__/
 data/**/groundtruth/
 data/_cache/
 /*.zip
+
+# Local tools, environments, model weights and credentials are not submissions.
+CVAT-Online_Task/
+.python-sam/
+.venv/
+.venv-*/
+venv/
+*.pt
+*.pth
+.env
+.env.*
+!.env.example
+**/groundtruth/

@@ -16,7 +16,7 @@ Repo đề bài được chia sẻ cho lớp. Bạn **fork về tài khoản Git
 
 ## 2. Điền một report
 
-Mở [`report/individual/MSSV_HoTen.md`](../report/individual/MSSV_HoTen.md) đã có sẵn trong thư mục report/individual/ và đổi tên file theo MSSV, họ tên thật không dấu (ví dụ `20260001_NguyenVanAn.md`); điền mã học viên, task hoàn thành, một quyết định tự vẽ trước gợi ý, một lỗi đã sửa và ba ca cân nhắc. Nếu cần hiểu cách điền, xem [mẫu có giải thích](../reports/REPORT_TEMPLATE.md). Không tự điền điểm. Nếu export thất bại, ghi tên task, trạng thái đã Save trên CVAT và báo coach.
+Mở [`report/individual/MSSV_HoTen.md`](../report/individual/2A202603251_TaNgocHuyenTrang.md) đã có sẵn trong thư mục report/individual/ và đổi tên file theo MSSV, họ tên thật không dấu (ví dụ `20260001_NguyenVanAn.md`); điền mã học viên, task hoàn thành, một quyết định tự vẽ trước gợi ý, một lỗi đã sửa và ba ca cân nhắc. Nếu cần hiểu cách điền, xem [mẫu có giải thích](../reports/REPORT_TEMPLATE.md). Không tự điền điểm. Nếu export thất bại, ghi tên task, trạng thái đã Save trên CVAT và báo coach.
 
 ## 3. Tự kiểm tùy chọn
 
